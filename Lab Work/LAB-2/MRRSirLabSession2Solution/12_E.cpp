@@ -1,5 +1,6 @@
 //12
 //12
+//12
 #include<stdio.h>
 int arr[1000006], num;
 void printarr()
